@@ -47,14 +47,6 @@ Enables drones to navigate and detect objects/obstacles autonomously using onboa
   - Real-time decision support for navigation
 
 ---
-
-##  Requirements
-
-Ensure the following packages are installed:
-
-```bash
-pip install opencv-python numpy matplotlib
-
 # Author Information
 Name: Sahara M
 
@@ -65,3 +57,12 @@ Year: III
 Department: Artificial Intelligence and Data Science
 
 Institution: Arunachala College of Engineering for Women
+
+##  Requirements
+
+Ensure the following packages are installed:
+
+```bash
+pip install opencv-python numpy matplotlib
+
+
