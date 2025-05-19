@@ -54,3 +54,14 @@ Ensure the following packages are installed:
 
 ```bash
 pip install opencv-python numpy matplotlib
+
+# Author Information
+Name: Sahara M
+
+Register Number: 960222243077
+
+Year: III
+
+Department: Artificial Intelligence and Data Science
+
+Institution: Arunachala College of Engineering for Women
